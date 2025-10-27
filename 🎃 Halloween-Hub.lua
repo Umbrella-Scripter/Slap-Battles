@@ -1,4 +1,4 @@
-pcall(function() workspace.Arena.Halloween_Decorations.Main.BigHay.KillParts.Killpart:Destroy() end)
+pcall(function() workspace.Arena.Halloween_Decorations.Main.BigHay.KillParts.Killpart:Destroy() end);
 
 
 
